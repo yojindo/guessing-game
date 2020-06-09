@@ -1,0 +1,24 @@
+/* Write your CSS code in this file */
+
+* {
+    background-color: #0D0A14;
+    color: white;
+    font-family: sans-serif;
+}
+
+#body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+
+.buttons button, input{
+    background-color: #B2AAA8;
+    font-family: bold;
+    border-radius: 10%;
+}
+
